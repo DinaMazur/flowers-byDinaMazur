@@ -1,0 +1,74 @@
+.conteiner {
+    width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left:15px ;
+  padding-right:15px ;
+
+  }
+  .logo {
+    color: #de1f9f;
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.78px;
+  }
+  .header-logo {
+    color: #212121;
+  }
+  .header-linkk {
+    color: #7c7272;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.28px;
+  }
+  .header-link {
+    color: #212121;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.28px;
+  }
+  
+  .header-link:hover {
+    color: #2196f3;
+  }
+  .header-list {
+    display: flex;
+    gap: 50px;
+  
+    align-items: center;
+    margin-right: 344px;
+  }
+  .header-contacts {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+  }
+  .header-conteiner {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+  .Asortiment-text{
+    align-content: center;
+    color: #e71775;
+    margin-left: 850px;
+  }
+  .Asortiment-list{
+   display: flex;
+   flex-wrap: wrap;
+    gap: 50px;
+    align-items: center;
+  }
+  
+  .Asortiment-conteiner{
+    display: flex;
+  }
+  
